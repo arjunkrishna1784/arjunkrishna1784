@@ -13,4 +13,4 @@ I'm a student at the Texas Academy of Mathematics and Science at UNT, interested
 
 ML evaluation, computer vision, computational linguistics, and computational genomics.
 
-The repositories include setup instructions, measured results, and limitations. The two vision prototypes were initially built with ChatGPT/Codex assistance.
+The repositories include setup instructions, measured results, and limitations.
